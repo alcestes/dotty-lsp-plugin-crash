@@ -1,5 +1,7 @@
 # Crashing the Dotty Language Server 0.11.0-RC1
 
+This project allows to replicate https://github.com/lampepfl/dotty/issues/5579
+
 ## Description
 
 The `build.sbt` file defines two projects:
